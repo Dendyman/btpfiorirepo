@@ -1,5 +1,5 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sap.btp.helloworldui5.controller.View1" displayBlock="true">
-    <Page id="page" title="HelloWorld!">
+    <Page id="page" title="Hello My Dear World!">
         <content/>
     </Page>
 </mvc:View>
